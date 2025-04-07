@@ -129,3 +129,20 @@ mvn spring-boot:run  # Start the backend API server
 ```
 ## Screenshots
 
+![Screenshot (104)](https://github.com/user-attachments/assets/b29a4f0e-6a95-4a0e-833a-a129c9570215)
+
+![Screenshot (103)](https://github.com/user-attachments/assets/d9b61522-a5ab-4421-9141-705751d8227c)
+
+![Screenshot (105)](https://github.com/user-attachments/assets/cfb983ea-2364-46b1-a3f9-68b7b9eb7114)
+
+![Screenshot (111)](https://github.com/user-attachments/assets/c43fd229-06aa-499e-a7cb-219b1f9f0cbf)
+
+![Screenshot (106)](https://github.com/user-attachments/assets/8c0c2bc8-be58-4180-abb3-9a71bd5931da)
+
+![Screenshot (107)](https://github.com/user-attachments/assets/5a19bb2a-3ebf-452c-97f0-f2b7fc3fa019)
+
+![Screenshot (109)](https://github.com/user-attachments/assets/4643c3c6-6d8b-4c33-a110-697a744a5545)
+
+![Screenshot (110)](https://github.com/user-attachments/assets/efa2cd5f-1e4d-4384-a099-31ee03af27f5)
+
+
